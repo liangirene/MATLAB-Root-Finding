@@ -1,6 +1,6 @@
 # MATLAB-Root-Finding
 
-In this project, I optimized the root-finding process by modifying the built-in zero-in function in MATLAB. By implementing specific enhancements, I successfully reduced the number of iterations needed to find the root within the defined tolerance parameter. This modification resulted in improved efficiency and accuracy in the root-finding process.
+In this project, I optimized the root-finding process by modifying the MATLAB built-in zero-in function. By implementing specific enhancements, I successfully reduced the number of iterations needed to find the root within the defined tolerance parameter. This modification resulted in improved efficiency and accuracy in the root-finding process.
 
 
 We would like to find a root of the equation
