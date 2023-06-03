@@ -1,4 +1,4 @@
-function [root,info] = modifiedzeroin3034107496(func,Int,params)
+function [root,info] = modifiedzeroin(func,Int,params)
 %
 % Modified zero-in for root-finding
 %
